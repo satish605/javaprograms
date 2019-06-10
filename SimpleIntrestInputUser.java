@@ -2,7 +2,7 @@ package introductionpractise;
 
 import java.util.Scanner;
 
-public class SimpleIntrestInputUSer 
+public class SimpleIntrestInputUser 
 {
 public static void main(String[]args)
 {
